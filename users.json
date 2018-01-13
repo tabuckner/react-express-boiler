@@ -1,0 +1,37 @@
+[
+  { 
+    "id": 1,
+    "first_name": "Ransom",
+    "last_name": "Raleston",
+    "email": "rraleston0@apple.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Allix",
+    "last_name": "Bryenton",
+    "email": "abryenton1@ocn.ne.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "El",
+    "last_name": "Burbudge",
+    "email": "eburbudge2@microsoft.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Reed",
+    "last_name": "Fulbrook",
+    "email": "rfulbrook3@odnoklassniki.ru",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Urbano",
+    "last_name": "Gronaver",
+    "email": "ugronaver4@hostgator.com",
+    "gender": "Male"
+  }
+]
